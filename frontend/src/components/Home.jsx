@@ -9,6 +9,8 @@ const Home = () => {
       <Footer />
       <h1>This is a new text inside feature1 branch</h1>
       <h2>This is a new text inside feature2 branch</h2>
+      <h3>This is a new text inside feature2 branch</h3>
+      <p>Parent</p>
     </>
   )
 }
