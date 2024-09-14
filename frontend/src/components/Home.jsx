@@ -7,6 +7,7 @@ const Home = () => {
     <>
       <Navbar />
       <Footer />
+      <h1>This is a new text inside feature1 branch</h1>
     </>
   )
 }
